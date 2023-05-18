@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'https://github.com/Yihan-Pan',
-  linkedin: 'https://www.linkedin.com/in/yihan-pan-24537912a/',
+  github: 'Yihan-Pan',
+  linkedin: 'yihan-pan-24537912a',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
