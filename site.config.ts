@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Yihan Pan',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Yihan's Personal Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
