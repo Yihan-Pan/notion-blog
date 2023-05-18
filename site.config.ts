@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Yihan Pan',
 
   // open graph metadata (optional)
-  description: 'Yihan's Personal Site',
+  description: 'Yihan\'s Personal Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
