@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yihan.site',
-  domain: 'yihan.site',
+  domain: 'https://www.notion.so/Yihan-site-8d8b544645854deb9290d934739db844',
   author: 'Yihan Pan',
 
   // open graph metadata (optional)
